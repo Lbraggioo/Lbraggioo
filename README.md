@@ -1,9 +1,19 @@
-Olá! Eu sou o Luca Braggio! 👋
+# Olá 👋
 
-📚 Atualmente estou fazendo graduação em Ciência da Computação.
+🔹 Meu nome é **Luca Braggio** e tenho **21 anos** 👨🏻
 
-🕹️ Estou me aprofundando em Python e JavaScript.
+🔹 Sou estudante de **Ciência da Computação** 📚 
 
-💻 Tenho experiencia em Automação de Processos.
+🔹 Sou apaixonado por **vídeo games**, **Inteligência Artificial**, **Fórmula 1**, **família** e *aprender coisas novas* 🤷🏻
 
-📫 Contate-me no email: luca@braggio.com.br
+|Hard Skills | Soft Skills |
+|--|--|
+| Python | Criatividade |
+| IA | Comunicação |
+| Java | Liderança |
+| C. de Dados | Organização |
+| HTML | Proatividade |
+| CSS | Auto-didata |
+
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/isadora-rodrigues-stangarlin-48402b141/)](https://www.linkedin.com/in/lbraggio/)
